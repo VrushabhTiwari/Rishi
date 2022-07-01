@@ -32,7 +32,7 @@ public static void name1(String name1)// static method with parameter
 }
 public void sum1(int a,int b , int c)// non static method with parameter
 {
-	
+	//Vaibhav gathe madarchod
 	c=a+b;
 	System.out.println("sum of a & b is "+c);
 }
