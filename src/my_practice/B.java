@@ -4,6 +4,7 @@ public class B extends Specifier {
 	public void test()// overidded the test method 
 	{
 		System.out.println("hi i am test method from A class");
+            //hii abhi
 	}
 
 	
