@@ -2,7 +2,7 @@ package my_practice;
 
 public class C {
 	
-	
+	//my class c modified
 	public static void main(String[] args) {
 		String word = "Vrushaabh Tiwaari";
 		int count = 0;
