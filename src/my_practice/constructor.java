@@ -7,6 +7,7 @@ public class constructor {
 //		constructor c = new constructor(50, 40, 20);
 		//c.addition();
 	}
+// poonam 
 public static void mul()
 {
 	int x=10;
